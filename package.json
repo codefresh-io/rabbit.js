@@ -1,5 +1,5 @@
 {
-  "name": "codefresh rabbit",
+  "name": "rabbit.js",
   "description": "Easy no-stream-based messaging using RabbitMQ built from original rabbit.js",
   "version": "0.0.1",
   "homepage": "https://github.com/codefresh-io/rabbit",
