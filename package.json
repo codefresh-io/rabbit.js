@@ -1,13 +1,13 @@
 {
-  "name": "rabbit.js",
-  "description": "Easy stream-based messaging using RabbitMQ",
-  "version": "0.4.4",
-  "homepage": "http://github.com/squaremo/rabbit.js",
+  "name": "codefresh rabbit",
+  "description": "Easy no-stream-based messaging using RabbitMQ built from original rabbit.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/codefresh-io/rabbit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/squaremo/rabbit.js.git"
+    "url": "https://github.com/codefresh-io/rabbit.git"
   },
-  "author": "Michael Bridgen <mikeb@squaremobius.net>",
+  "author": "Itai Gendler <itai@codefresh.io>",
   "directories": {
     "lib": "lib",
     "test": "test"
